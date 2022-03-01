@@ -1,0 +1,29 @@
+{
+  "name": "compute-subnet",
+  "version": "1.0.0",
+  "description": "CIDR / netmask / IP Address computation.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kritish-dhaubanjar/compute-subnet.git"
+  },
+  "keywords": [
+    "subnet",
+    "netmask",
+    "cidr",
+    "ip",
+    "address"
+  ],
+  "author": "Kritish Dhaubanjar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kritish-dhaubanjar/compute-subnet/issues"
+  },
+  "homepage": "https://github.com/kritish-dhaubanjar/compute-subnet#readme"
+}
