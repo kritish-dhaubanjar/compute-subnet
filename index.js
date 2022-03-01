@@ -71,7 +71,7 @@ function getHosts(cidr, networkAddress, broadcastAddress) {
     end: [...broadcastAddress],
   };
 
-  if (cidr < 32 - 2) {
+  if (cidr < 32 - 1) {
     hostAddresses.start[3]++;
     hostAddresses.end[3]--;
   }

@@ -1,6 +1,6 @@
 {
   "name": "compute-subnet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CIDR / netmask / IP Address computation.",
   "main": "index.js",
   "directories": {
